@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf606954-ceb3-4298-a9b2-790f3f887fcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/main_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/main_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/DataConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/DataConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Excelik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Excelik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Exceliks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Exceliks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/StringManipulators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/StringManipulators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cdWb6M0DurZKZ7paFx9mVWMMDl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,9 +39,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/kosta/IdeaProjects/BOLAUTO1/src/main/java/org/example",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kosta\IdeaProjects\BOLAUTO1\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main_code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.main_code" />
+      <module name="BOLAUTO1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main_code" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +82,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708442007434</updated>
+      <workItem from="1708442008931" duration="366000" />
+      <workItem from="1708442754303" duration="2726000" />
+      <workItem from="1708445527327" duration="3171000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

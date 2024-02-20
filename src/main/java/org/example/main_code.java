@@ -1,4 +1,7 @@
-package org.example.sample;
+package org.example;
+
+import org.example.sample.Const;
+import org.example.sample.StringManipulators;
 
 import java.util.InputMismatchException;
 

@@ -1,4 +1,4 @@
-package sample;
+package org.example.sample;
 public class Const {
     public static String OPERATIONS_TABLE = "text_calculations";
     public static final String OPERATIONS_ID = "OPERATIONS_ID";

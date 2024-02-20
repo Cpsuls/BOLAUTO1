@@ -1,7 +1,7 @@
-package sample;
+package org.example.sample;
 
-import static sample.StringManipulators.HANDLER;
-import static sample.StringManipulators.SCAN;
+import static org.example.sample.StringManipulators.HANDLER;
+import static org.example.sample.StringManipulators.SCAN;
 
 public class Change {
     public static void changes(){

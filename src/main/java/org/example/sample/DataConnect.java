@@ -1,4 +1,4 @@
-package sample;
+package org.example.sample;
 public class DataConnect {
     protected String dbHost = "localhost";
     protected String dbPort = "3306";

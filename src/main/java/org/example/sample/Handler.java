@@ -1,4 +1,6 @@
-package sample;
+package org.example.sample;
+
+
 
 import java.sql.ResultSetMetaData;
 import java.sql.ResultSet;
@@ -7,7 +9,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import static sample.StringManipulators.SCAN;
+import static org.example.sample.StringManipulators.SCAN;
 
 
 public class Handler extends DataConnect {

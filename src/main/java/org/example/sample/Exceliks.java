@@ -1,18 +1,18 @@
-package sample;
+package org.example.sample;
 
-import static sample.StringManipulators.HANDLER;
-import static sample.StringManipulators.SCAN;
+import static org.example.sample.StringManipulators.HANDLER;
+import static org.example.sample.StringManipulators.SCAN;
 
 public class Exceliks {
     public static void retdata() throws Exception {
-        System.out.println("Введите имя файла Excel, в который перенесем все ваши данные (создастся этот файл)");
+        System.out.println("Р’РІРµРґРёС‚Рµ РёРјСЏ С„Р°Р№Р»Р° Excel, РІ РєРѕС‚РѕСЂС‹Р№ РїРµСЂРµРЅРµСЃРµРј РІСЃРµ РІР°С€Рё РґР°РЅРЅС‹Рµ (СЃРѕР·РґР°СЃС‚СЃСЏ СЌС‚РѕС‚ С„Р°Р№Р»)");
         SCAN.nextLine();
         String excel_name = SCAN.nextLine();
         Excelik exik = new Excelik();
         String[][] data_table = HANDLER.selectAll(Const.OPERATIONS_TABLE);
         exik.inputsEx(data_table, excel_name);
-        System.out.println("Занеслись данные из текущей активной таблицы - " + Const.OPERATIONS_TABLE + ":");
-        System.out.println("Данные из таблицы Excel: " + excel_name);
+        System.out.println("Р—Р°РЅРµСЃР»РёСЃСЊ РґР°РЅРЅС‹Рµ РёР· С‚РµРєСѓС‰РµР№ Р°РєС‚РёРІРЅРѕР№ С‚Р°Р±Р»РёС†С‹ - " + Const.OPERATIONS_TABLE + ":");
+        System.out.println("Р”Р°РЅРЅС‹Рµ РёР· С‚Р°Р±Р»РёС†С‹ Excel: " + excel_name);
         exik.outputEx(excel_name);
     }
 }
