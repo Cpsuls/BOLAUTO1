@@ -1,8 +1,8 @@
 package org.example.sample;
 public class DataConnect {
-    protected String dbHost = "localhost";
-    protected String dbPort = "3306";
-    protected String dbUser = "root";
-    protected String dbPass = "1234";
-    protected String dbName = "test";
+    protected static String dbHost = "localhost";
+    protected static String dbPort = "3306";
+    protected static String dbUser = "root";
+    protected static String dbPass = "1234";
+    protected static String dbName = "test";
 }

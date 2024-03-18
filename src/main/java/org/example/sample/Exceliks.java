@@ -9,10 +9,9 @@ public class Exceliks {
         SCAN.nextLine();
         String excel_name = SCAN.nextLine();
         Excelik exik = new Excelik();
-        String[][] data_table = HANDLER.selectAll(Const.OPERATIONS_TABLE);
-        exik.inputsEx(data_table, excel_name);
-        System.out.println("Занеслись данные из текущей активной таблицы - " + Const.OPERATIONS_TABLE + ":");
+//        String[][] data_table = HANDLER.selectAll(Const.OPERATIONS_TABLE);
+//        System.out.println("Занеслись данные из текущей активной таблицы - " + Const.OPERATIONS_TABLE + ":");
         System.out.println("Данные из таблицы Excel: " + excel_name);
-        exik.outputEx(excel_name);
+        exik.outputEx();
     }
 }

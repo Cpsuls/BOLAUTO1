@@ -4,24 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf606954-ceb3-4298-a9b2-790f3f887fcc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cf606954-ceb3-4298-a9b2-790f3f887fcc" name="Changes" comment="&quot;ododsjf&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/main_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/main_code.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Change.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Const.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/DataConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/DataConnect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Excelik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Excelik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Exceliks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Exceliks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/Handler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/StringManipulators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sample/StringManipulators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample/javas.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,26 +34,33 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2cdWb6M0DurZKZ7paFx9mVWMMDl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/kosta/IdeaProjects/BOLAUTO1/src/main/java/org/example",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kosta/IdeaProjects/BOLAUTO1/src/main/java/org/example&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kosta\IdeaProjects\BOLAUTO1\src\main\java\org\example" />
@@ -84,15 +96,107 @@
       <updated>1708442007434</updated>
       <workItem from="1708442008931" duration="366000" />
       <workItem from="1708442754303" duration="2726000" />
-      <workItem from="1708445527327" duration="3171000" />
+      <workItem from="1708445527327" duration="3857000" />
+      <workItem from="1708498942241" duration="5479000" />
+      <workItem from="1708679126432" duration="1283000" />
+      <workItem from="1708785994536" duration="5697000" />
+      <workItem from="1709103473897" duration="16936000" />
+      <workItem from="1709449971608" duration="17724000" />
+      <workItem from="1709655073224" duration="999000" />
+      <workItem from="1709656145026" duration="10000" />
+      <workItem from="1709656984721" duration="12000" />
+      <workItem from="1709657207451" duration="15000" />
+      <workItem from="1709707997097" duration="1603000" />
+      <workItem from="1710071964324" duration="796000" />
+      <workItem from="1710758636828" duration="371000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;ododsjf&quot;">
+      <created>1708456005693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708456005693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;ododsjf&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;ododsjf&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/sample/StringManipulators.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/sample/Handler.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/sample/Excelik.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/sample/Excelik.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/main_code.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="String.valueOf(resultSet.getString(i)).length()" />
+        <watch expression="FIRST_STRING.substring(index_start,index_end)" />
+        <watch expression="values[i]" />
+        <watch expression="values" language="JAVA" />
+        <watch expression="datas" />
+        <watch expression="cell.getCellType()" />
+        <watch expression="DateUtil.isCellDateFormatted(cell)" />
+        <watch expression="values.get(0)" />
+        <watch expression="list" />
+        <watch expression="values.get(i)" />
+        <watch expression="values" />
+        <watch expression="insert" />
+        <watch expression="insert" />
+        <watch expression="prSt" />
+        <watch expression="prSt" />
+        <watch expression="prSt" />
+        <watch expression="prSt" />
+        <watch expression="list" />
+        <watch expression="row.getCell(columnIdx)" />
+        <watch expression="list" />
+        <watch expression="list" />
+        <watch expression="prSt" />
+        <watch expression="datas" />
+        <watch expression="datas" />
+        <watch expression="datas" />
+        <watch expression="rsmd" />
+        <watch expression="datas" />
+        <watch expression="datas" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BOLAUTO1$main_code.ic" NAME="main_code Coverage Results" MODIFIED="1709458684613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
